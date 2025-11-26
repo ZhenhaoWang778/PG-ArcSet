@@ -16,7 +16,7 @@ The dataset includes **1,950 images** preprocessed to 224×224 pixels, covering 
 3.  **Net-type Arc:** Mesh diffusion, typical in wet pollution on insulators.
 
 <!-- [PLACEHOLDER] Upload 'Fig 3. Sample arcs data' from your paper here and name it assets/samples.png -->
-![Sample Arcs](assets/sample.png)
+![Sample Arcs](asset/sample.png)
 *Figure: Samples of Line-type, Branch-type, and Net-type arcs.*
 
 ## 📂 Dataset Structure
