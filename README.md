@@ -26,9 +26,9 @@ The dataset is organized into three subfolders corresponding to the arc types. E
 ```text
 PG-ArcSet/
 ├── data.zip/ 
-│   ├── Line/      # Images of Line-type arcs
-│   ├── Branch/    # Images of Branch-type arcs
-│   └── Net/       # Images of Net-type arcs
+│   ├── line/      # Images of Line-type arcs
+│   ├── branch/    # Images of Branch-type arcs
+│   └── net/       # Images of Net-type arcs
 ```
 
 ## 🧪 Validation and Quality Assurance
